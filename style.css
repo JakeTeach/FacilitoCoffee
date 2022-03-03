@@ -16,3 +16,11 @@ body {
   height: 200px;
   background-blend-mode: normal;
 }
+
+.card-title {
+  min-height: 3rem; 
+}
+
+.card-text {
+  min-height: 10rem;
+}
