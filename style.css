@@ -75,6 +75,13 @@ h5 {
   animation: slider 10s infinite;
 }
 
+.avatar {
+  width: 120px;
+  height: 120px;
+  background-size: cover;
+  background-position: center; 
+}
+
 @keyframes slider{
 0%{
   transform: translateX(0);
