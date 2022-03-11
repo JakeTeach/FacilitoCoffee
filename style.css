@@ -91,16 +91,16 @@ h5 {
   transform: translateX(0);
 }
 25%{
-  transform: translateX(-100%);
+  transform: translateX(-150%);
 }
 45%{
-  transform: translateX(-100%);
+  transform: translateX(-150%);
 }
 50%{
-  transform: translateX(-200%);
+  transform: translateX(-250%);
 }
 70%{
-  transform: translateX(-200%);
+  transform: translateX(-250%);
 }
 75%{
   transform: translateX(-100%);
