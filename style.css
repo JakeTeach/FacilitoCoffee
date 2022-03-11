@@ -60,7 +60,7 @@ h5 {
 }
 .image-container {
   width: 100%;
-  padding: 56.25%;
+  padding-top: 56.25%;
   background-size: cover;
   background-position: center;
   flex-shrink: 0;
@@ -90,16 +90,16 @@ h5 {
     transform: translateX(0);
   }
   25% {
-    transform: translateX(-113%);
+    transform: translateX(-100%);
   }
   45% {
-    transform: translateX(-113%);
+    transform: translateX(-100%);
   }
   50% {
-    transform: translateX(-226%);
+    transform: translateX(-200%);
   }
   70% {
-    transform: translateX(-226%);
+    transform: translateX(-200%);
   }
   75% {
     transform: translateX(-339%);
